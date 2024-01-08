@@ -58,8 +58,8 @@ fun Card(){
             verticalArrangement = Arrangement.Bottom,
             horizontalAlignment = Alignment.CenterHorizontally
         ){
-            InfoLine(emoji = "\uD83D\uDCE7", info = "nick93sid@gmail.com")
-            InfoLine(emoji = "\uD83D\uDCF1", info = "+30 6978211933")
+            InfoLine(emoji = "\uD83D\uDCE7", info = "nick*****@gmail.com")
+            InfoLine(emoji = "\uD83D\uDCF1", info = "+30 697821****")
             InfoLine(emoji = "\uD83C\uDF0D", info = "linkedin: @nick-sidiropoulos")
         }
 
